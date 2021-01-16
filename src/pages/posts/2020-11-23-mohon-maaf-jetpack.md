@@ -1,18 +1,12 @@
 ---
-layout: post
-author: Wildan Fauzy
-categories:
-- cdn
 title: Menggunakan Image Photon Jetpack di Jekyll
-image: assets/images/jetpack.jpg
-date: 2020-11-23 23:11:00 +0700
-title: 
-subtitle: 
-date: '2020-11-00'
-thumb_img_path: images/
-content_img_path: images/
+subtitle: Satu hal yang menjadi kendala
+date: '2020-11-23'
+thumb_img_path: images/jetpack.jpg
+content_img_path: images/jetpack.jpg
 excerpt: >-
- sub.
+ Satu hal yang menjadi kendala ketika ngelog menggunankan ssg jekyll adalah hosting gambar, iya karena jika menyimpan gambar pada repo github dengan pengaturan default maka gambar akan memuat dengan ukuran aslinya.
+
 template: post
 ---
 Satu hal yang menjadi kendala ketika ngelog menggunankan ssg jekyll adalah hosting gambar, iya karena jika menyimpan gambar pada repo github dengan pengaturan default maka gambar akan memuat dengan ukuran aslinya.
