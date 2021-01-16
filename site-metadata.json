@@ -79,7 +79,7 @@
   "footer": {
     "type": "footer",
     "template": "footer",
-    "content": "&copy; AidanBlog.com All rights reserved. by <a href=\"https:/a.idan.my.id\" target=\"_blank\" rel=\"noopener\">a.idan.my.id</a>. develop by <a href=\"https://wildanfauzy.com\" target=\"_blank\" rel=\"noopener\">WildanFauzy.com</a>",
+    "content": "&copy; AidanBlog.com All rights reserved. by <a href=\"https://wildanfauzy.com\" target=\"_blank\" rel=\"noopener\">WildanFauzy.com</a>",
     "links": [
 
     ]
