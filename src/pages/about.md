@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: Hello, There!
 img_path: images/wildan-fauzy.jpeg
 template: page
 ---
