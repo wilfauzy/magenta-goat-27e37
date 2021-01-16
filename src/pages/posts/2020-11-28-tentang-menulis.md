@@ -1,25 +1,13 @@
 ---
-date: 2020-11-28T03:58:45.000+07:00
-layout: post
 title: Tentang Menulis
-subtitle: 'Kenapa masih saja nulis padahal enggak ada perkembangan '
-description: Jadi tulisan ini ditulis melalui netliycms mau nyoba aja kaya gimana,
+subtitle: Kenapa masih saja nulis padahal enggak ada perkembangan
+date: '2020-11-28'
+thumb_img_path: images/js-code_n83m7a_brtop3.jpg
+content_img_path: images/js-code_n83m7a_brtop3.jpg
+excerpt: >-
+ Jadi tulisan ini ditulis melalui netliycms mau nyoba aja kaya gimana,
   nulis di handphone, ternyata ukuran layarnya tidak responsive, dipaksa ke layar
   desktop jadi rada kagak, berbeda sama forestry yang sudah responsive
-image: assets/images/js-code_n83m7a_brtop3.jpg"
-optimized_image: "https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_380/v1606485058/js-code_n83m7a_brtop3.jpg"
-category: coretan
-tags:
-- menulis
-author: Wildan Fauzy
-paginate: false
-title: 
-subtitle: 
-date: '2020-11-00'
-thumb_img_path: images/
-content_img_path: images/
-excerpt: >-
- sub.
 template: post
 ---
 Entah mengapa masih saja menulis, padahal tidak banyak hal yang harus diceritain sebab semuanya terasa fleet saja, sebagaimana fitur baru twitter yang menyerupai stories di instagram atau layanan lainnya. 

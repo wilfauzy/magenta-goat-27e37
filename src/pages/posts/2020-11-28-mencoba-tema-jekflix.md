@@ -1,24 +1,13 @@
 ---
-layout: post
-author: Wildan Fauzy
-date: 2020-11-28 14:36:00 +0700
-title: 'Mencoba Tema Jekflix '
-subtitle: 'Tema jekflix tampilan terinspirasi netflix '
-description: Tema jekyll satu ini memang menarik dan menawan di tampilan mobile atau
+title: Mencoba Tema Jekflix
+subtitle: Tema jekflix tampilan terinspirasi netflix
+date: '2020-11-28'
+thumb_img_path: images/theme17_nlndhx_oibw2z.jpg
+content_img_path: images/theme17_nlndhx_oibw2z.jpg
+excerpt: >-
+ Tema jekyll satu ini memang menarik dan menawan di tampilan mobile atau
   desktop sangat resposive dan menerapkan struktur tema yang adaptif sesuau gadget
   yang digunakan, namanya jekflix mirip netflix
-image: assets/images/theme17_nlndhx_oibw2z.jpg
-optimized_image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_380/c_scale,w_380/v1606485056/theme17_nlndhx_oibw2z.jpg
-category: jekyll
-tags:
-- jekflix
-title: 
-subtitle: 
-date: '2020-11-00'
-thumb_img_path: images/
-content_img_path: images/
-excerpt: >-
- sub.
 template: post
 ---
 Kerjaan hanya scroll timeline twitter tanpa ada perbincangan hanya silent rider, hubungan juga semakin rumit, menuju jalan kehampaan.

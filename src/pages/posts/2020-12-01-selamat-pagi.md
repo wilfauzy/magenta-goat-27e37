@@ -1,24 +1,12 @@
 ---
-layout: post
-author: Wildan Fauzy
-date: 2020-12-09 06:10:00 +0700
 title: Selamat Pagi
-subtitle: 'Pagi bukanlah siang, sat. '
-description: 'Bangun pagi dan selamat tidur, bukan tanpa alasan bisa bangun di pagi
-  hari, udara yang sangat dingin, ditambah keinginan untuk kencing. '
-image: assets/images/pexels-p-c-1735658_y5ui1a.jpg
-optimized_image: https://res.cloudinary.com/nadliw45/image/upload/v1606728677/pexels-p-c-1735658_y5ui1a.jpg
-category: blog
-tags:
-- pagi
-
-title: 
-subtitle: 
-date: '2020-11-00'
-thumb_img_path: images/
-content_img_path: images/
+subtitle: Pagi bukanlah siang, sat.
+date: '2020-12-01'
+thumb_img_path: images/pexels-p-c-1735658_y5ui1a.jpg
+content_img_path: images/pexels-p-c-1735658_y5ui1a.jpg
 excerpt: >-
- sub.
+ Bangun pagi dan selamat tidur, bukan tanpa alasan bisa bangun di pagi
+  hari, udara yang sangat dingin, ditambah keinginan untuk kencing.
 template: post
 
 ---
